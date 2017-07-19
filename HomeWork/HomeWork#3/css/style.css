@@ -127,6 +127,8 @@ img {
     font-size: 16px;
     counter-reset: #525252;
     line-height: 2em;
+    width: 75%;
+    margin: 0 auto;
 }
 
 .about-items {
@@ -176,6 +178,7 @@ h3 a {
     counter-reset: #525252;
     margin: 20px;
     margin-bottom: 80px;
+    line-height: 2em;
 }
 
 footer {
