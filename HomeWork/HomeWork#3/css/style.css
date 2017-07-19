@@ -46,13 +46,18 @@ header .container h1 {
 }
 
 nav {
-    width: 85%;
+    /*width: 85%;*/
     margin: 0 auto;
+    text-align: center;
 }
 
 nav ul li {
     display: inline-block;
-    text-align: center;
+}
+
+ul {
+    margin: 0 20 0 0;
+    padding: 0;
 }
 
 ul li a {
@@ -125,7 +130,6 @@ img {
 .descr {
     text-align: center;
     font-size: 16px;
-    counter-reset: #525252;
     line-height: 2em;
     width: 75%;
     margin: 0 auto;
@@ -141,6 +145,7 @@ img {
     width: 49%;
     display: inline-block;
     text-align: center;
+    margin-top: 50px;
 }
 
 .about-item i {
@@ -175,10 +180,10 @@ h3 a {
 
 .about-item p {
     font-size: 16px;
-    counter-reset: #525252;
-    margin: 20px;
+    margin: 0 20px;
     margin-bottom: 80px;
     line-height: 2em;
+    /*margin-top: -10px;*/
 }
 
 footer {
