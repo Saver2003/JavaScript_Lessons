@@ -14,6 +14,8 @@ body {
     margin: 0 auto;
 }
 
+/* Стили для header*/
+
 header {
     background-color: #f5f5f5;
 }
@@ -46,9 +48,9 @@ header .container h1 {
 }
 
 nav {
-    /*width: 85%;*/
     margin: 0 auto;
     text-align: center;
+    margin-top: 20px;
 }
 
 nav ul li {
@@ -56,7 +58,7 @@ nav ul li {
 }
 
 ul {
-    margin: 0 20 0 0;
+    margin: 0 20px 0 0;
     padding: 0;
 }
 
@@ -72,6 +74,8 @@ li {
     width: 95px;
     padding-bottom: 40px;
 }
+
+/*Стили для блока с картинкой*/
 
 .project {
     display: table;
@@ -115,6 +119,8 @@ img {
     line-height: 2em;
 }
 
+/*Стили для блока about*/
+
 .about {
     background-color: #f5f5f5;
     margin-top: 30px;
@@ -134,6 +140,8 @@ img {
     width: 75%;
     margin: 0 auto;
 }
+
+/*Стили для блока inems*/
 
 .about-items {
     width: 100%;
@@ -185,6 +193,8 @@ h3 a {
     line-height: 2em;
     /*margin-top: -10px;*/
 }
+
+/*Стили для footer*/
 
 footer {
     height: 80px;
