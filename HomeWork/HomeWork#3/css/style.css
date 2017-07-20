@@ -14,6 +14,7 @@ body {
     margin: 0 auto;
 }
 
+
 /* Стили для header */
 
 header {
@@ -75,6 +76,7 @@ li {
     padding-bottom: 40px;
 }
 
+
 /* Стили для блока с картинкой */
 
 .project {
@@ -119,6 +121,7 @@ img {
     line-height: 2em;
 }
 
+
 /* Стили для блока about */
 
 .about {
@@ -142,6 +145,7 @@ img {
     margin: 0 auto;
 }
 
+
 /* Стили для блока items */
 
 .about-items {
@@ -151,7 +155,7 @@ img {
 }
 
 .about-item {
-    width: 49%;
+    width: 38%;
     display: inline-block;
     text-align: center;
     margin-top: 50px;
@@ -166,6 +170,10 @@ img {
     background-position: 50% 50%;
     border-radius: 50%;
     margin-bottom: -5px;
+}
+
+.item-1 {
+    margin-right: 185px;
 }
 
 .item-1 i {
@@ -189,16 +197,15 @@ h3 a {
 
 .about-item p {
     font-size: 16px;
-    margin: 0 20px;
     margin-bottom: 80px;
     line-height: 2em;
     margin-top: -15px;
 }
 
+
 /* Стили для footer */
 
 footer {
-    height: 80px;
     background: #4caf50;
 }
 
@@ -207,5 +214,6 @@ footer p {
     padding-bottom: 15px;
     font-size: 14px;
     color: #fff;
-    float: right;
+    text-align: right;
+    margin: 0;
 }
