@@ -1,0 +1,173 @@
+body {
+    font-family: verdana, sans-serif;
+    color: #000;
+    background: #fff;
+    font-size: 14px;
+    line-height: 1.3;
+    min-width: 986px;
+    margin: 0;
+}
+
+.container {
+    width: 986px;
+    margin: 0 auto;
+}
+
+header img {
+    margin-top: 20px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+nav ul li {
+    display: inline-block;
+    float: left;
+    padding: 10px 36px 10px 7px;
+    box-sizing: content-box;
+    margin-top: 15px;
+}
+
+ul {
+    padding: 0;
+}
+
+.first {
+    padding-left: 0 10px;
+}
+.last {
+    padding-right: 145px;
+}
+
+li {
+    background: #03a7d4;
+    border-right: 1px solid #fff;
+}
+
+h3 {
+    clear: both;
+}
+
+.content aside {
+    margin-top: 50px;
+    width: 26%;
+    float: left;
+}
+
+.content aside h3 {
+    font-size: 23px;
+    color: #008fbf;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.content aside p {
+    font-size: 14px;
+    margin: 10px 0 25px 0;
+}
+
+.content aside a {
+    color: #008fbf;
+}
+
+.first-link {
+    margin-top: 0;
+}
+
+main {
+    margin-top: 50px;
+    width: 70%;
+    float: right;
+    overflow: hidden;
+}
+
+.childroom {
+    font-size: 28px;
+    color: #008fbf;
+    margin-top: 16px;
+}
+
+main h4 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+main h4 a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #000;
+}
+
+.item-box-1 {
+    margin-bottom: 15px;
+}
+
+.item-box-1 .text {
+    width: 68%;
+    float: left;
+    margin-top: 0;
+}
+.item-box-1 p {
+    margin-top: 0;
+}
+
+.item-box-1 img {
+    width: 25%;
+    float: right;
+}
+
+/**/
+
+.item-box-2 .text {
+    width: 68%;
+    float: left;
+    margin-top: 0;
+}
+.item-box-2 p {
+    margin-top: 0;
+}
+
+.item-box-2 img {
+    width: 25%;
+    float: right;
+}
+
+/**/
+
+.livingroom {
+    clear: both;
+    font-size: 28px;
+    color: #008fbf;
+    margin-top: 16px;
+    padding-top: 40px;
+}
+
+.item-box-3 .text {
+    width: 70%;
+    float: right;
+    margin-top: 0;
+}
+.item-box-3 p {
+    width:100%;
+    margin-bottom: 70px;
+}
+
+.item-box-3 img {
+    width: 25%;
+    float: left;
+}
+
+footer {
+    clear: both;
+    border-top: 2px dashed grey;
+    font-size: 19px;
+    color: #595959;
+    font-weight: bold;
+}
+
+footer span {
+    color: #000;
+}
