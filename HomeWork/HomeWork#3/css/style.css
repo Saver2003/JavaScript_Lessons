@@ -104,21 +104,25 @@ li {
 
 img {
     width: 100%;
+    height: auto;
 }
 
 .project-item h2 {
     font-size: 36px;
     font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 40px;
 }
 
 .category {
-    margin-top: -20px;
-    font-size: 14px;
+    font-size: 14px;    
 }
 
 .project-item p {
     font-size: 16px;
     line-height: 2em;
+    margin-bottom: 40px;
+    margin-top: 0px;
 }
 
 
