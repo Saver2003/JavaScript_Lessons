@@ -4,6 +4,7 @@ html, body, div, object, iframe, img, table, tbody, tfoot, thead, td, th, tr, fo
     border: 0;
     vertical-align: baseline;
     background: transparent;
+    font-family: arial, sans-serif;
 }
 
 html {
@@ -40,9 +41,9 @@ button, input [type="button"] {
     cursor: pointer
 }
 
-/** {
+* {
     box-sizing: border-box;
-}*/
+}
 
 .clear {
     clear: both;

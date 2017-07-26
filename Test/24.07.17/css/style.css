@@ -1,0 +1,26 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+}
+
+.box-item-1 {
+    width: 70%;
+    background: red;
+    float: left;
+}
+
+.box-item-2 {
+    width: 60%;
+    float: right;
+    background: lightblue;
+
+}
+
+.content {
+    overflow: hidden;
+}
