@@ -74,11 +74,13 @@ h1 {
 }
 
 .block-item.item-1 .icon {
-    display: block;
+    width: 44px;
+    height: 41px;
+    display: inline-block;
     background-image: url(../img/case.png);
     background-repeat: no-repeat;
-    background-position: 0 30%;
-    height: 30px;
+    background-position: 50% 50%;
+        /*height: 30px;*/
 }
 
 .block-item.item-1 h4 a {
@@ -88,7 +90,7 @@ h1 {
     font-size: 24px;
     color: #fff;
     font-weight: normal;
-    margin-top: 0;
+    margin-top: 50px;
     margin-bottom: 0;
 }
 
@@ -120,7 +122,9 @@ h1 {
 /**/
 
 .block-item.item-2 .icon {
-    display: block;
+    width: auto;
+    height: 44px;
+    display: inline-block;
     background-image: url(../img/clock.png);
     background-repeat: no-repeat;
     background-position: 0 30%;
@@ -165,7 +169,9 @@ h1 {
 /**/
 
 .block-item.item-3 .icon {
-    display: block;
+    width: 47px;
+    height: 33px;
+    display: inline-block;
     background-image: url(../img/cloud.png);
     background-repeat: no-repeat;
     background-position: 0 30%;

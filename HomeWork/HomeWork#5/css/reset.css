@@ -47,7 +47,7 @@ button, input [type="button"] {
 
 .clear {
     clear: both;
-    font-size:0;
+    font-size: 0;
 }
 
 .clearfix::after {
